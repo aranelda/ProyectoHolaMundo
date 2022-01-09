@@ -1,1 +1,1 @@
-print("Hola planeta",sep="--")
+print("Hola mundo",sep="--")
