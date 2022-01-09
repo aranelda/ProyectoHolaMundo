@@ -1,1 +1,1 @@
-print("Hola mundo",sep="--")
+print("Hola mundo",sep="---")
