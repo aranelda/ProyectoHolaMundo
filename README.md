@@ -1,2 +1,2 @@
 # ProyectoHolaMundo
- Descripción proyecto Hola Mundo
+ Descripción repositorio Hola Mundo
